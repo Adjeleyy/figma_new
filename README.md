@@ -1,1 +1,2 @@
 This is a mobile responsive version of the website in the link attachec (https://www.figma.com/design/qRNIMfm336iTlFlYj4AnW8/Lance---Freelancer-Website-Design-%7C-Personal-Website-Design---with-source-code--Community-?node-id=751-1102&t=IwH5nZYgwihul5qm-0).
+Result - (https://figma-cao8vxx6m-adjeley.vercel.app)
