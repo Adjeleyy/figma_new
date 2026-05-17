@@ -1,6 +1,6 @@
 export function Services() {
   return (
-    <div className="w-full flex flex-col px-6 sm:px-15 lg:px-20 xl:px-30 mt-20 md:mt-25 gap-18 md:gap-21">
+    <div id="services" className="w-full flex flex-col px-6 sm:px-15 lg:px-20 xl:px-30 mt-20 md:mt-25 gap-18 md:gap-21">
       <h2 className="font-spartan font-bold text-[24px] md:text-[28px] leading-none tracking-normal">
         What I do
       </h2>
@@ -21,7 +21,7 @@ export function Services() {
           </p>
           <p className="font-spartan font-semibold text-[16px] lg:text-[22px] text-[#212126] leading-none tracking-normal">
             Get an estimate
-          </p>
+          </p> 
         </div>
         <div className="flex flex-col gap-8">
           <img

@@ -27,7 +27,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${leagueSpartan.variable} ${hind.variable} h-full antialiased`}
+      className={`${leagueSpartan.variable} ${hind.variable} h-full antialiased scroll-smooth`}
     >
       <body className="min-h-full min-w-full flex flex-col mx-auto overflow-x-hidden">{children}</body>
     </html>

@@ -1,6 +1,6 @@
 export function Consult() {
   return (
-    <div className="flex flex-col sm:flex-row justify-between w-full px-6 sm:px-15 lg:px-20 xl:px-30 mt-25 gap-10 md:gap-0">
+    <div id="consult" className="flex flex-col sm:flex-row justify-between w-full px-6 sm:px-15 lg:px-20 xl:px-30 mt-25 gap-10 md:gap-0">
       <div>
         <h2 className="font-spartan font-bold text-[20px] md:text-[28px] text-[#212126] leading-none tracking-normal">
           📅 Schedule a consult.
@@ -23,7 +23,7 @@ export function Consult() {
           <img src="/linkedin.svg" alt="linkedin" />
           <img src="/narendra.svg" alt="narendra" />
         </div>
-      </div>
+      </div> 
       <div className="flex flex-col w-full max-w-145">
         <input
           type="text"

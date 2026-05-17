@@ -6,7 +6,7 @@ export default function Nav() {
   return (
     <div className="w-full relative">
       <nav className="flex justify-between items-center w-full h-[86px] px-6 sm:px-15 lg:px-20 xl:px-30">
-        <img src="/navbar.svg" alt="narendra" className="w-[60px] h-[86px] gap-[10px] py-[13px]" />
+        <a href="#hero"><img src="/navbar.svg" alt="narendra" className="w-[60px] h-[86px] gap-[10px] py-[13px]" /></a>
 
         {/* Desktop menu */}
         <div className="hidden sm:block">
